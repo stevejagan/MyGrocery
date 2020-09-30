@@ -1,2 +1,0 @@
-# MyGrocery
-MyGrocery
